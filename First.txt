@@ -1,3 +1,6 @@
 This is my first file added through remote repository
 and this is the secod line
 I have added new heading in file
+This is my first text file
+Second line is added
+
